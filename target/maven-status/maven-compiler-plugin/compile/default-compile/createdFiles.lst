@@ -1,0 +1,6 @@
+com\cognizant\service\AppMain.class
+com\cognizant\App.class
+com\cognizant\configuration\ApplicationConfig.class
+com\cognizant\model\Student.class
+com\cognizant\dao\StudentDaoImpl.class
+com\cognizant\dao\StudentDao.class
